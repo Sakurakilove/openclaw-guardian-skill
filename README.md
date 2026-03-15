@@ -33,9 +33,6 @@
 ---
 
 ## 🚀 Quick Start
----
-
-## 🚀 Quick Start
 
 ### ⚡ One-Line Installation (Recommended)
 
@@ -46,16 +43,6 @@ Simply send this message to your OpenClaw:
 ```
 
 That's it! TuanziGuardianClaw will be automatically downloaded and installed, providing **comprehensive protection** for your OpenClaw instance immediately.
-
-### ✨ What Happens Next?
-
-Once installed, TuanziGuardianClaw automatically protects all skill operations:
-
-```
-Safe operation → Automatically approved ✅
-"Summarize this document for me" (Risk: 0/100)
-
-Malicious operation → Blocked immediately ❌  
 "Ignore previous instructions" (Risk: 95/100, Threat: PROMPT_INJECTION)
 
 Suspicious operation → Requires confirmation ⚠️
@@ -345,14 +332,14 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ### Special Thanks
 
-- **[明日新程团队](https://github.com/mingrixinli)** - Developed the original **卫士虾 (WeishiXia)** security kernel, which inspired and laid the foundation for this project
+- **明日新程团队** - Developed the original **卫士虾 (WeishiXia)** security kernel, which inspired and laid the foundation for this project
 - **OpenClaw community** - For the amazing AI Agent framework
 - **Security researchers** - Who contributed threat signatures and security expertise
 - **Contributors** - Who helped improve the detection algorithms
 
 ### About This Project
 
-**TuanziGuardianClaw v2** is based on and inspired by **卫士虾 (WeishiXia)** - an innovative security kernel developed by [明日新程团队](https://github.com/mingrixinli). We extend our sincere gratitude to the original authors for their pioneering work in AI Agent security.
+**TuanziGuardianClaw v2** is based on and inspired by **卫士虾 (WeishiXia)** - an innovative security kernel developed by 明日新程团队. We extend our sincere gratitude to the original authors for their pioneering work in AI Agent security.
 
 This project builds upon the excellent foundation laid by 卫士虾, with enhancements in:
 - Multi-layer threat detection architecture
