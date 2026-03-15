@@ -1,6 +1,10 @@
 # 🔒 TuanziGuardianClaw v2
 
 <p align="center">
+  <b>English</b> | <a href="./README_CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OpenClaw-Security%20Kernel-blue?style=for-the-badge&logo=shield" alt="OpenClaw Security Kernel">
   <img src="https://img.shields.io/badge/version-2.0.0-green?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" alt="License">
