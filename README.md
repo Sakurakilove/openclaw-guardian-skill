@@ -43,11 +43,6 @@ Simply send this message to your OpenClaw:
 ```
 
 That's it! TuanziGuardianClaw will be automatically downloaded and installed, providing **comprehensive protection** for your OpenClaw instance immediately.
-"Ignore previous instructions" (Risk: 95/100, Threat: PROMPT_INJECTION)
-
-Suspicious operation → Requires confirmation ⚠️
-"Read ~/.ssh/id_rsa" (Risk: 70/100, Level: Critical)
-```
 
 ---
 ```
