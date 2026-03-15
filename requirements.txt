@@ -1,0 +1,14 @@
+# Core dependencies for TuanziGuardianClaw
+pydantic>=2.0.0
+langgraph>=0.0.50
+langchain-core>=0.1.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.0.0
+
+# Development
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
