@@ -351,14 +351,6 @@ pytest tests/ -v
 
 ---
 
-## 📞 支持
-
-- 📧 邮箱: security@tuanzi.com
-- 💬 Discord: [加入我们的服务器](https://discord.gg/openclaw-security)
-- 🐛 问题: [GitHub Issues](https://github.com/Sakurakilove/openclaw-guardian-skill/issues)
-
----
-
 <p align="center">
   <b>🔒 使用 TuanziGuardianClaw v2 保护你的 AI 智能体</b><br>
   <i>让 AI 智能体更安全，一次操作一个</i>

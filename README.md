@@ -341,14 +341,6 @@ This project builds upon the excellent foundation laid by 卫士虾, with enhanc
 
 ---
 
-## 📞 Support
-
-- 📧 Email: security@tuanzi.com
-- 💬 Discord: [Join our server](https://discord.gg/openclaw-security)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/openclaw-guardian-skill/issues)
-
----
-
 <p align="center">
   <b>🔒 Secure Your AI Agents with TuanziGuardianClaw v2</b><br>
   <i>Making AI Agents Safe, One Operation at a Time</i>
