@@ -45,9 +45,6 @@ Simply send this message to your OpenClaw:
 That's it! TuanziGuardianClaw will be automatically downloaded and installed, providing **comprehensive protection** for your OpenClaw instance immediately.
 
 ---
-```
-
----
 
 ## 🏗️ Architecture
 
