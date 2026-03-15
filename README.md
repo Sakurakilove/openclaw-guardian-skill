@@ -343,9 +343,22 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## 🙏 Acknowledgments
 
-- OpenClaw community for the amazing AI Agent framework
-- Security researchers who contributed threat signatures
-- Contributors who helped improve the detection algorithms
+### Special Thanks
+
+- **[明日新程团队](https://github.com/mingrixinli)** - Developed the original **卫士虾 (WeishiXia)** security kernel, which inspired and laid the foundation for this project
+- **OpenClaw community** - For the amazing AI Agent framework
+- **Security researchers** - Who contributed threat signatures and security expertise
+- **Contributors** - Who helped improve the detection algorithms
+
+### About This Project
+
+**TuanziGuardianClaw v2** is based on and inspired by **卫士虾 (WeishiXia)** - an innovative security kernel developed by [明日新程团队](https://github.com/mingrixinli). We extend our sincere gratitude to the original authors for their pioneering work in AI Agent security.
+
+This project builds upon the excellent foundation laid by 卫士虾, with enhancements in:
+- Multi-layer threat detection architecture
+- Dynamic risk scoring algorithms  
+- Adaptive permission management
+- Structured audit logging system
 
 ---
 

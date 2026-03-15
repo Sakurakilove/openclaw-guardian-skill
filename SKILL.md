@@ -9,6 +9,15 @@ category: security
 license: MIT
 ---
 
+<!-- 
+ACKNOWLEDGMENT:
+This skill is based on and inspired by 卫士虾 (WeishiXia) - an innovative security kernel 
+developed by 明日新程团队 (Mingri Xincheng Team). We extend our sincere gratitude to the 
+original authors for their pioneering work in AI Agent security.
+
+Project: https://github.com/mingrixinli
+-->
+
 # TuanziGuardianClaw v2
 OpenClaw Next-Generation Security Kernel
 
